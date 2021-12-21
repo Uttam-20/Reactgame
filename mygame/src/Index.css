@@ -1,0 +1,32 @@
+body{
+    background-color:purple;
+}
+#root{
+    color:orangered;
+}
+#rules{
+    display:none;
+    height:max-content;
+    color:red;
+}
+#instructions{
+    width:auto;
+    height:max-content;
+}
+#pos {
+    width: auto;
+    position: relative;
+}
+#result{
+    display:none;
+    border-width:3px;
+    border-color:green;
+    border-style:solid;
+    color:red;
+}
+#buton:hover{
+    background-color:aquamarine;
+}
+#ruling:hover{
+    background-color:aquamarine;
+}
